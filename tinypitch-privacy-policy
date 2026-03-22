@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TinyPitch Privacy Policy</title>
+    <style>
+        :root {
+            color-scheme: light;
+            --bg: #f5f7fb;
+            --card: #ffffff;
+            --text: #152033;
+            --muted: #52607a;
+            --border: #d9e1ee;
+            --accent: #1c7ed6;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            background: linear-gradient(180deg, #eef3fb 0%, var(--bg) 100%);
+            color: var(--text);
+            line-height: 1.6;
+        }
+
+        main {
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 48px 20px 64px;
+        }
+
+        .card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 18px;
+            padding: 32px;
+            box-shadow: 0 18px 40px rgba(27, 39, 66, 0.08);
+        }
+
+        h1, h2 {
+            line-height: 1.2;
+            margin: 0 0 12px;
+        }
+
+        h1 {
+            font-size: 2rem;
+        }
+
+        h2 {
+            font-size: 1.15rem;
+            margin-top: 28px;
+        }
+
+        p, li {
+            font-size: 1rem;
+            color: var(--text);
+            margin: 0 0 14px;
+        }
+
+        .meta {
+            color: var(--muted);
+            font-size: 0.95rem;
+        }
+
+        ul {
+            margin: 0 0 14px 20px;
+            padding: 0;
+        }
+
+        a {
+            color: var(--accent);
+        }
+
+        .contact {
+            padding: 16px 18px;
+            background: #f7faff;
+            border: 1px solid var(--border);
+            border-radius: 14px;
+        }
+
+        .notice {
+            margin-top: 24px;
+            padding: 14px 16px;
+            background: #fff8e8;
+            border: 1px solid #f0d58a;
+            border-radius: 12px;
+            color: #5f4a12;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <section class="card">
+            <h1>Privacy Policy for TinyPitch Reimagined</h1>
+            <p class="meta">Effective date: <strong>22/03/2026</strong></p>
+
+            <p>TinyPitch respects your privacy. This Privacy Policy explains what information TinyPitch collects, how it is used, and your choices regarding that information.</p>
+
+            <h2>Information We Collect</h2>
+            <p>TinyPitch does not collect, store, transmit, or share personal information.</p>
+
+            <h2>How TinyPitch Works</h2>
+            <p>TinyPitch is a watchOS app that plays reference pitches locally on your device. The app functions without requiring an account, login, or cloud service.</p>
+
+            <h2>Local Device Data</h2>
+            <p>TinyPitch stores a limited amount of preference data locally on your device so the app can remember your settings. This may include:</p>
+            <ul>
+                <li>selected octave</li>
+                <li>volume setting</li>
+                <li>selected instrument or sound mode</li>
+                <li>whether the help screen has already been shown</li>
+            </ul>
+            <p>This information remains on your device and is not sent to the developer or to any third party.</p>
+
+            <h2>Microphone and Audio</h2>
+            <p>TinyPitch plays sound locally on your Apple Watch. TinyPitch does not record audio, does not access the microphone, and does not listen to sound from your surroundings.</p>
+
+            <h2>Analytics, Tracking, and Advertising</h2>
+            <p>TinyPitch does not use analytics services, advertising SDKs, or tracking technologies.</p>
+            <p>TinyPitch does not track you across apps, websites, or devices.</p>
+
+            <h2>Third-Party Services</h2>
+            <p>TinyPitch does not use third-party services that collect personal data through the app.</p>
+
+            <h2>Children's Privacy</h2>
+            <p>TinyPitch does not knowingly collect personal information from anyone, including children.</p>
+
+            <h2>Changes to This Privacy Policy</h2>
+            <p>If this Privacy Policy changes, the updated version will be posted at this page with a revised effective date.</p>
+
+            <h2>Contact</h2>
+            <div class="contact">
+                <p><strong>Daniel Dudek</strong></p>
+                <p>Email: <a href="mailto:danny.dudek+tppp@gmail.com">danny.dudek+tppp@gmail.com</a></p>
+            </div>
+
+              </section>
+    </main>
+</body>
+</html>
